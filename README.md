@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahirturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="shahirturkmen" /> </p>
 - 👋 Hi, I’m ShahirTurkmen.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning coding in scrimba
