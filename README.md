@@ -16,3 +16,8 @@
 ## 🔥 Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shahirturkmen)](https://git.io/streak-stats)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shahirturkmen&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=shahirturkmen&theme=default" />
+</picture>
